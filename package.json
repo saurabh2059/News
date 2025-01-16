@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://saurabh2059.github.io/online-news",
+  "homepage": "https://saurabh2059.github.io/News",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
